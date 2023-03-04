@@ -33,6 +33,7 @@
     "@sentry/node": "^6.19.7",
     "@sentry/tracing": "^6.19.7",
     "discord.js": "^14.7.1",
+    "ffmpeg-static": "^5.1.0",
     "linq": "^3.2.4",
     "play-dl": "^1.9.6",
     "tweetnacl": "^1.0.3",
